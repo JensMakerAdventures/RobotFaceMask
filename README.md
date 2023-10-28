@@ -1,5 +1,8 @@
 # RobotFaceMask
-Ugly MicroPython code for Raspberry Pi Pico to animate four 8*8 dot matrix led display modules
+Ugly MicroPython code for Raspberry Pi Pico to animate four 8*8 dot matrix led display modules.
+
+This code is part of my YouTube video on this robotic face mask: 
+https://www.youtube.com/watch?v=i6IdMNdzH_s
 
 All software and CAD models are available on the Creative Commons Attribution licence. Download here:
 [https://drive.google.com/drive/folder...](https://drive.google.com/drive/folders/1o3sL-fug2f8qjjEwWK7M_JC5x1f4AQgK)
