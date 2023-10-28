@@ -14,3 +14,12 @@ Parts list:
 - Micro USB cable
 - Useful Sensors Person Sensor [https://www.sparkfun.com/products/21231](https://www.sparkfun.com/products/21231)
 - 1x2 and 2x 1x1 MAX7219 8*8 Dot Matrix Led Display Module [https://nl.aliexpress.com/item/400106...](https://www.aliexpress.us/item/2255800876003296.html)https://www.aliexpress.us/item/2255800876003296.html
+
+The original face mesh is under Creative Commons:
+The_BeardBot July 02, 2018
+https://www.thingiverse.com/thing:2986318
+
+The LCD screen step file is royalty free:
+https://grabcad.com/library/8x8-dot-matrix-max7219-1
+
+My own work for this project is also under Creative Commons Attribution V4.
